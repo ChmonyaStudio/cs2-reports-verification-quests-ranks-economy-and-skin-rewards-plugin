@@ -74,7 +74,7 @@ No compilation required — the release contains the compiled `.dll` and config 
 
 #### 2. Database setup
 
-Create a database and run the schema (see [docs/schema.sql](docs/schema.sql)). Tables required:
+Create a database and run the schema (see [schema.sql](schema.sql)). Tables required:
 - `lvl_base` — player stats (from your levels/ranks plugin)
 - `skin_pool` — available skins
 - `player_skins` — awarded skins
@@ -229,7 +229,7 @@ MIT — see [LICENSE](LICENSE).
 
 #### 2. Настройка БД
 
-Создай базу и примени схему (см. [docs/schema.sql](docs/schema.sql)). Нужны таблицы:
+Создай базу и примени схему (см. [schema.sql](schema.sql)). Нужны таблицы:
 - `lvl_base` — статистика игроков
 - `skin_pool` — доступные скины
 - `player_skins` — выданные скины
