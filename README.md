@@ -161,7 +161,7 @@ MIT — see [LICENSE](LICENSE).
 ### 💬 Contact
 
 - **GitHub Issues:** [report a bug](https://github.com/ChmonyaStudio/cs2-reports-verification-quests-ranks-economy-and-skin-rewards-plugin/issues)
-- **Telegram:** [@YOUR_TELEGRAM](https://t.me/p1zdabol4ik)
+- **Telegram:** [TELEGRAM](https://t.me/p1zdabol4ik)
 
 ---
 
@@ -316,7 +316,7 @@ MIT — см. [LICENSE](LICENSE).
 ### 💬 Контакты
 
 - **GitHub Issues:** [сообщить о баге](https://github.com/ChmonyaStudio/cs2-reports-verification-quests-ranks-economy-and-skin-rewards-plugin/issues)
-- **Telegram:** [@YOUR_TELEGRAM](https://t.me/p1zdabol4ik)
+- **Telegram:** [TELEGRAM](https://t.me/p1zdabol4ik)
 
 ---
 
