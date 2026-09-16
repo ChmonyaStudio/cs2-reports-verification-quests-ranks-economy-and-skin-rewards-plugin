@@ -16,7 +16,7 @@ A complete player management plugin for CS2 servers: **reports, verification, qu
 
 ### 📦 Download
 
-**[⬇️ Download the latest release](https://github.com/ChmonyaStudiocs2-reports-verification-quests-ranks-economy-and-skin-rewards-plugin/releases/latest)**
+**[⬇️ Download the latest release](https://github.com/ChmonyaStudio/cs2-reports-verification-quests-ranks-economy-and-skin-rewards-plugin/releases/latest)**
 
 No compilation required — the release contains the compiled `.dll` and config template.
 
